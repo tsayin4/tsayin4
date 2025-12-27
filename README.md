@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hilmi Tuna Sayin
 
-<!--
-**tsayin4/tsayin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems-focused builder working on production-grade async Python systems.
 
-Here are some ideas to get you started:
+Contributor to **aiohttp** and **FastAPI**, focusing on async exception semantics, background task lifecycle, and resource management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Built (public reference implementations):**
+- Async circuit breaker — failure isolation in distributed systems
+- Cost-aware async scheduler — priority vs resource trade-offs
+- AI commit validator — verification-first AI usage
+
+Founder of **CIAI**, a high-throughput async transaction processing system (10K+ TPS), built from real production constraints.
+
+Interested in systems engineering, economics, and responsible AI.
+
+---
+
+📫 **Contact:** hilmitunasayin@icloud.com  
+🔗 **GitHub:** https://github.com/tsayin4
+
